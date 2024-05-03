@@ -5,23 +5,25 @@ public class Prova {
     //abre o scanner
     Scanner scan = new Scanner(System.in);
     System.out.print("Digite um real: ");
+
     // metodo le um real
     x = scan.nextFloat();
     System.out.print("Digite um real: ");
+
     // metodo le um real
     y = scan.nextFloat();
-    /*---QUESTÃO 1---
-       ESCOLHA O CÓDIGO A SER INSERIDO NESSE ESPAÇO
-       PARA QUE SEU PROGRAMA LEIA OUTRO NÚMERO REAL
-       NA ENTRADA
-    */
+    System.out.print("Digite um real: ");
+
+    // metodo le um real
+    z = scan.nextFloat();
+    
+
     // fecha scanner
     scan.close();
-    /*---QUESTÃO 2---
-       ESCOLHA O CÓDIGO A SER INSERIDO NESSE ESPAÇO
-       PARA QUE SEU PROGRAMA CALCULE A MÉDIA ENTRE OS
-       3 NÚMEROS LIDOS NA ENTRADA
-    */
-    System.out.println("O resultado é: "+x);
+    //multiplica os três reais
+    x = x + y + z;
+
+    // imprime o numero
+    System.out.println("A soma é: "+x);
   }
 }
