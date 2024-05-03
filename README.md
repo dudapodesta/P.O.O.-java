@@ -1,4 +1,4 @@
-Trabalho (dígitos): faça um programa em java que lê um inteiro x de 3 dígitos e retorna os inteiros a,b,c referentes aos dígitos da unidade, dezena e centena, respectivamente.
+Trabalho (dígitos): faça um programa em java que lê um inteiro x de 3 dígitos e retorna os inteiros a,b,c referentes aos dígitos da unidade, dezena e centena, respectivamente.\\
 Algoritmo (para x,a,b,c inteiros):
 Leia(x)
 Faça a=x%10
