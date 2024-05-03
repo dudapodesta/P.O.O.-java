@@ -1,4 +1,3 @@
-/*Soma 3 números reais usando Big Decimal*/
 import java.math.BigDecimal;  
 import java.util.Scanner;
 public class SomaBD {
