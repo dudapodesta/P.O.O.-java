@@ -5,7 +5,7 @@ public class SwitchTeste {
     int num;
     //abre o scanner
     Scanner scan = new Scanner(System.in);
-    System.out.print("Digite um inteiro: ");
+    System.out.print("Digite um número natural: ");
 
     // metodo le um inteiro
     num = scan.nextInt();
