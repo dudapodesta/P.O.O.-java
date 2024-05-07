@@ -4,7 +4,7 @@ public class Par {
     int x;
     //abre o scanner
     Scanner scan = new Scanner(System.in);
-    System.out.print("Digite um inteiro: ");
+    System.out.print("Digite um número natural: ");
     // metodo le um real
     x = scan.nextInt();
     // fecha scanner
