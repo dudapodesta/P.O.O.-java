@@ -1,4 +1,4 @@
-PDF ATUALIZADO EM 14/05/2024<br>
+PDF ATUALIZADO EM 03/06/2024<br>
 1 Bimestre: hello, ler, prod2, prod3r, soma2, soma3b (igual para float, mas para BigDecimal), soma3r <br>
 2 Bimestre: ifelse (IF duplo), maior, testapar, switch, smes <br>
 s4-2-8-ex1.java -> solução para o exercício 1 da seção 4.2.8 (trabalho em grupo)<br><br>
