@@ -1,22 +1,12 @@
-PDF ATUALIZADO EM 03/06/2024<br>
+PDF ATUALIZADO EM 08/08/2024<br>
 1 Bimestre: hello, ler, prod2, prod3r, soma2, soma3b (igual para float, mas para BigDecimal), soma3r <br>
 2 Bimestre: ifelse (IF duplo), maior, testapar, switch, smes <br>
 s4-2-8-ex1.java -> solução para o exercício 1 da seção 4.2.8 (trabalho em grupo)<br><br>
-Trabalho (dígitos): faça um programa em java que lê um inteiro x de 3 dígitos e retorna os inteiros a,b,c referentes aos dígitos da unidade, dezena e centena, respectivamente.<br>
-Algoritmo (para x,a,b,c inteiros):<br>
-Leia(x)<br>
-Faça a=x%10<br>
-Faça x=x/10<br>
-Faça b=x%10<br>
-Faça c=x/10<br>
-<br><br>
-Algoritmo (para x,a,b,c reais):<br>
-Leia(x)<br>
-Faça a=x%10<br>
-Faça x=x-a<br>
-Faça x=x/10<br>
-Faça b=x%10<br>
-Faça x=x-b<br>
-Faça x=x/10<br>
-Faça c=x%10<br>
+Trabalho 3º bimestre: seção 4.5<br>
+2-1:<br>
+Grupo 1: Thaisi, Poliana, Fábio, Kauã, José A., Thales, Luís H. : exercício 2<br>
+Grupo 2: Mateus H., Maycon, David, Maria L., Flávio, Nathan, Isabeli : exercício 6<br>
+Grupo 3: Júlia, Marcelo, Sabrina, Larissa, Luís O. : exercício 4<br>
+Grupo 4: João P., Gabriel, Carlos, André : exercício 4<br>
+Grupo 5: João R., João V., Marcos, Mateus E., Otávio, Fabrício, Amanda : exercício 1<br>
 
