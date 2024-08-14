@@ -2,7 +2,8 @@
 
 class Imprime {
     public static void main(String[] args) {
-	int x=10;
+	int x;
+	x=10;
         System.out.println("O valor de x é " + x); 
 	//System.out.println(x);
     }
