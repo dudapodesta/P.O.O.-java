@@ -16,7 +16,7 @@ public class Prod {
 
     // fecha scanner
     scan.close();
-    //soma os dois inteiros
+    //multiplica os dois inteiros
     //equivalente a x = x*y
     x*=y;
 
