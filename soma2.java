@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Soma {
 
   public static void main(String[] args) {
-    int x,y;
+    int x,y,soma;
     //abre o scanner
     Scanner scan = new Scanner(System.in);
     System.out.print("Digite um inteiro: ");
@@ -17,10 +17,9 @@ public class Soma {
     // fecha scanner
     scan.close();
     //soma os dois inteiros
-    //equivalente a x = x+y
-    x+=y;
+    soma = x+y;
 
     // imprime o numero
-    System.out.println("A soma é: "+x);
+    System.out.println("A soma é: "+soma);
   }
 }
