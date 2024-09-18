@@ -1,9 +1,9 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("Ola!\n");
-        System.out.println("Boa tarde");
-        System.out.println("Hello, World!"); 
+        System.out.print("Hello, World!");
+        System.out.print("Ola!");
+        System.out.print("Boa tarde");
+        System.out.print("Hello, World!"); 
     }
 }  
 
