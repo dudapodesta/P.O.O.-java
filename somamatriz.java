@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LerMat {
+public class SomaMat {
 
   public static void main(String[] args) {
     int i,j;
