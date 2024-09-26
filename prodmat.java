@@ -32,8 +32,9 @@ public class ProdMat {
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++){
-           matR[i][j]=mat1[i][0]*mat2[0][j]+mat1[i][1]*mat2[1][j]+mat1[i][2]*mat2[2][j];    
-       }
+//insira aqui o código para calcular o produto das matrizes
+          
+          }
     }
     
     // imprime a matriz
