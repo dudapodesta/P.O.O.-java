@@ -13,8 +13,7 @@ public class SomaMat {
     {
         //j colunas
         for(j=0;j<3;j++){
-          //insira aqui o código para somar as duas matrizes termo a termo
-          
+          mat1[i][j] = scan.nextInt();
        }
     }
     System.out.print("Entre com uma matriz de inteiros de tamanho 3x3: ");
@@ -32,7 +31,9 @@ public class SomaMat {
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++){
-           mat1[i][j]+=mat2[i][j];    
+          //insira aqui o código para somar as duas matrizes termo a termo
+
+          
        }
     }
     
