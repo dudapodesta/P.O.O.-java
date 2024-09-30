@@ -5,6 +5,7 @@ public class SomaMat {
     int i,j;
     int[][] mat1 = new int[3][3];
     int[][] mat2 = new int[3][3];
+    int[][] matR = new int[3][3];
     //abre o scanner
     Scanner scan = new Scanner(System.in);
     System.out.print("Entre com uma matriz de inteiros de tamanho 3x3: ");
@@ -27,7 +28,7 @@ public class SomaMat {
     }
     // fecha scanner
     scan.close();
-    // soma as matrizes e guarda em mat1
+    // soma as matrizes e guarda em matR
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++){
@@ -41,7 +42,7 @@ public class SomaMat {
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++){
-           System.out.print(mat1[i][j]+" ");    
+           System.out.print(matR[i][j]+" ");    
        }
        System.out.print("\n");
     }
