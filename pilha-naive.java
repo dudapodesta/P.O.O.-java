@@ -51,6 +51,8 @@ public class Pilha {
           //espaço 'extra
           case '\n':
               break;
+          case '\r':
+              break;
           //erro
           default:
               System.out.println("Comando inválido ");
