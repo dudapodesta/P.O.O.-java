@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Prova {
   public static void main(String[] args) {
-    float x,y,z;
+    float x,y,z,soma;
     //abre o scanner
     Scanner scan = new Scanner(System.in);
     System.out.print("Digite um real: ");
@@ -20,10 +20,10 @@ public class Prova {
 
     // fecha scanner
     scan.close();
-    //multiplica os três reais
-    x = x + y + z;
+    //soma os três reais
+    soma = x + y + z;
 
     // imprime o numero
-    System.out.println("A soma é: "+x);
+    System.out.println("A soma é: "+soma);
   }
 }
