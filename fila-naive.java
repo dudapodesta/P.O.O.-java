@@ -40,6 +40,7 @@ public class Fila {
                 for(i=inicio;i<fim;i++){
                    System.out.print(vec[i]+" ");
                 }
+               System.out.print("\n");
              }
              
              break;
