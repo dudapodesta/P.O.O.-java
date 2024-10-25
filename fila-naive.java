@@ -15,12 +15,12 @@ public class Fila {
     while(flag){
        op = (char)System.in.read();
        switch(op){ 
-          //empilha
+          //enfilera
           case 'e':
              vec[fim] = scan.nextInt();
              fim++;
              break;
-          //desempilha
+          //desenfilera
           case 'd':
              if(fim==inicio){ 
                 System.out.println("Fila vazia");
@@ -49,9 +49,10 @@ public class Fila {
               flag=false;
               break;
           
-          //espaço 'extra
+          //espaço 'extra'
           case '\n':
               break;
+          //espaço 'extra'
           case '\r':
               break;
           
