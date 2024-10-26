@@ -3,7 +3,7 @@ PDF ATUALIZADO EM 08/08/2024<br>
 2 Bimestre: ifelse (IF duplo), maior, testapar, switch, smes <br>
 s4-2-8-ex1.java -> solução para o exercício 1 da seção 4.2.8 (trabalho em grupo)<br>
 3 Bimestre: lervec (lê e imprime vetor), fatorial (inteiro, para números pequenos), tabuada e tabuada2 (for aninhado), piramide e piramide1 (for aninhado)<br>
-4 Bimestre: lermat (lê e imprime matriz), somamatriz (soma duas matrizes 2x4), prodmat (faz o produto de duas matrizes 3x3), detmat (calcula o determinante de uma matriz 3x3), pilha-naive (simula o funcionamento de uma pilha usando vetor), fila-naive (simula o funcionamento de uma fila usando vetor)<br><br>
+4 Bimestre: lermat (lê e imprime matriz), somamatriz (soma duas matrizes 2x4), prodmat (faz o produto de duas matrizes 3x3), detmat (calcula o determinante de uma matriz 3x3), pilha-naive (simula o funcionamento de uma pilha usando vetor), fila-naive (simula o funcionamento de uma fila usando vetor), hanoi.java (método recursivo para a solução passo-a-passo do problema das torres de Hanoi)<br><br>
 Trabalho 3º bimestre: seção 4.5<br>
 2-1:<br>
 Grupo 1: Thaisi, Poliana, Fábio, Kauã, José A., Thales, Luís H. : exercício 2<br>
